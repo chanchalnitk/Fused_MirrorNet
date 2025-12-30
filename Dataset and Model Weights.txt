@@ -1,0 +1,15 @@
+
+The dataset and trained model weights used in this project are large in size (approximately 250 MB). Due to GitHub file size limitations (maximum 25 MB per file), these files cannot be uploaded directly to the repository.
+
+Therefore, the dataset and model weights are hosted externally and are provided through a download link.
+
+
+
+
+
+
+
+
+
+
+https://drive.google.com/drive/folders/1Ql5vA8x5OsjFOsHGG9CgaeMWEB4a9tNV?usp=sharing
